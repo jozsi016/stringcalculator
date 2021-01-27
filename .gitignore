@@ -8,11 +8,4 @@
 /httpRequests/
 .idea
 /target
-bookingsystem.iml
-
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jozsi016/stringcalculator.git
-git push -u origin main
+stringcalculator.iml
