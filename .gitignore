@@ -2,7 +2,6 @@
 /shelf/
 /.idea/workspace.xml
 # Datasource local storage ignored files
-/../../../../../../:\Users\Jozsi\Repos\bookingsystem\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
